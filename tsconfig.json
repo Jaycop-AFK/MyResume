@@ -22,5 +22,5 @@
   },
   "include": [
     "src"
-  ]
+, "Aboutme.tsx", "Navbar.tsx", "Typing.tsx", "Welcome.tsx"  ]
 }
